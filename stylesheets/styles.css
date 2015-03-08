@@ -180,6 +180,7 @@ footer {
   text-align:left;
   width:270px;
   float:left;
+  position:absolute;
   bottom:20px;
 }
 
